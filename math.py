@@ -12,7 +12,9 @@ def multiply(x,y):
 
 #Division Function
 def divide(x,y):
-    pass
+    if y==0:
+		return DIVIDE_BY_0_ERROR
+	return x/y
 
 #Square Function
 def square(x):
