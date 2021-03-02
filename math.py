@@ -13,3 +13,7 @@ def multiply(x,y):
 #Division Function
 def divide(x,y):
     pass
+
+#Square Function
+def square(x):
+	return x*x
