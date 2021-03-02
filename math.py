@@ -22,6 +22,6 @@ def divide(x,y):
 def square(x):
 	return x*x
 	
-#Cube Function
+#Cube Function Implementation
 def square(x):
 	return x*x*x
